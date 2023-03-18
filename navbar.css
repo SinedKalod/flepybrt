@@ -1,0 +1,16 @@
+nav{
+    font-size:1.125em;
+    background-color:black;
+    border-bottom: 2px solid white;
+}
+#li{
+    margin-left:5px;
+}
+#li:hover{
+    background-color:white;
+    transition:0.6s;
+    border-radius: 77px 77px 77px 77px;
+-moz-border-radius: 77px 77px 77px 77px;
+-webkit-border-radius: 77px 77px 77px 77px;
+border: 0px solid #000000;
+}
